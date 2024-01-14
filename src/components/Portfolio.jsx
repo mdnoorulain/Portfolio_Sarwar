@@ -56,7 +56,7 @@ function Portfolio() {
         },
     ];
   return (
-    <Section title="Portfolio em" subtitle='This are all the Project I have worked on. Some of them
+    <Section title="Portfolio 📝" subtitle='This are all the Project I have worked on. Some of them
     I have worked before I gained some experience. So go gentle on them.'>
 
         <div className=' grid gap-8 lg:gap-14 lg:grid-cols-2'>

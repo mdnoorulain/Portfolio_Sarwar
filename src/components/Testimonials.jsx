@@ -32,7 +32,7 @@ function Testimonials() {
 ];
 
   return (
-    <Section title='Testimonials em' subtitle='This is what my other clients have to say about me. I
+    <Section title='Testimonials 💬' subtitle='This is what my other clients have to say about me. I
     accept clients from all around the world'>
 
         <div className=' max-w-xl flex flex-col gap-2'>

@@ -6,12 +6,12 @@ function Hero() {
     const SOCIAL =[
         {
             id :1,
-            link: "https://facebook.com",
+            link: "https://www.facebook.com/profile.php?id=100027954856379&mibextid=ZbWKwL",
             icon : <FaFacebook />,
         },
         {
             id :2,
-            link: "https://instagram.com",
+            link: "https://www.instagram.com/sarwar_ashrafi?igsh=MTliczZsMmI3ZDR0bQ==",
             icon : <FaInstagram />,
         },
         {
@@ -33,7 +33,7 @@ function Hero() {
         <h3 className=' py-3 text-2xl'>Digital Marketer</h3>
         <p className=' max-w-xl font-light text-gray-500'>
             Hello
-            <span className=' animate-pulse text-4xl'> em </span>
+            <span className=' animate-pulse text-4xl'> 👋 </span>
             Welcome to my
             site. I am a Digital Marketer. I love to work on wev dev, Marketing,
             & Automation project. 

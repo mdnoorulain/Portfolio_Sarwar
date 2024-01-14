@@ -8,12 +8,12 @@ function Contact() {
     const SOCIAL =[
         {
             id :1,
-            link: "https://facebook.com",
+            link: "https://www.facebook.com/profile.php?id=100027954856379&mibextid=ZbWKwLttps://facebook.com",
             icon : <FaFacebook />,
         },
         {
             id :2,
-            link: "https://instagram.com",
+            link: "https://www.instagram.com/sarwar_ashrafi?igsh=MTliczZsMmI3ZDR0bQ==",
             icon : <FaInstagram />,
         },
         {
@@ -24,7 +24,7 @@ function Contact() {
         
     ];
   return (
-    <Section title="Contact em" subtitle='There are a ways you can get in touch with me. Hope to hear from you soon:)'
+    <Section title="Contact 📞" subtitle='There are a ways you can get in touch with me. Hope to hear from you soon:)'
     >
         <div className='flex flex-col items-center justify-center gap-8 text-center'>
             <div >
@@ -46,8 +46,8 @@ function Contact() {
                 ))}
             </div>
 
-            <div className='p-8 text-left w-full'>
-                <form action="" method='POST'>
+            <div className='p-8 text-left w-full flex items-center justify-center'>
+                <form action="https://getform.io/f/c4ec1a84-bf95-4d9a-8f58-d287cc083764" method='POST'>
                     <div className=' gap-4 w-full'>
                         <div className='flex flex-col my-2'>
                             <label className=' capitalize text-sm py-2 font-extralight'>Name :</label>
@@ -78,7 +78,7 @@ function Contact() {
                     </div>
                     <div className=' flex items-center justify-center'>
                         <button className='my-8 bg-gradient-to-r from-rose-600 to-teal-500 text-white px-6 py-3
-                        font-bold uppercase rounded-md'>
+                        font-bold uppercase rounded-md tracking-wider cursor-pointer hover:scale-105 duration-200'>
                             send message
                         </button>
                     </div>

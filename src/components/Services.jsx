@@ -31,7 +31,7 @@ function Services() {
         },
     ];
   return (
-    <Section title='Services em'
+    <Section title='Services 🛠️'
     subtitle='orem ipsum dolor sit amet consectetur adipisicing elit. Beatae maxime est in eius 
     maiores recusandae error, dicta earum non vitae omnis ipsam temporibus voluptate cum facere. Natus 
     dolores distinctio pariatur quisquam unde aut sapiente harum eveniet ut rem quas error, possimus 
